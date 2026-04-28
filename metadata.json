@@ -1,0 +1,6 @@
+{
+  "name": "Vectorizador SVG Asistido por IA",
+  "description": "Herramienta avanzada para convertir imágenes en SVG editables con control estructural y reconstrucción geométrica precisa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_processing", "svg_generation"]
+}
